@@ -33,11 +33,3 @@
 
 
 </div>
-    
-[![](https://img.shields.io/badge/LINKEDIN-7FA1FF?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vanshika-tyagi-824a26226/)
-[![](https://img.shields.io/badge/LEETCODE-9D84FF?style=flat&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/Keihirokth/)
-[![](https://img.shields.io/badge/CV-B19CFF?style=flat&logo=readme&logoColor=ffffff)](eh)
-[![](https://img.shields.io/badge/MAIL-A3B9FF?style=flat&logo=gmail&logoColor=ffffff)](mailto:van4shikaty@gmail.com)
-[![](https://img.shields.io/badge/PORTFOLIO-8B9AF7?style=flat&logo=github&logoColor=ffffff)](your-portfolio-link-here)
-
-</div>
