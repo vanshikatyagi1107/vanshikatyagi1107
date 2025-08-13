@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/LEETCODE-9D84FF?style=flat&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/Keihirokth/)
 [![](https://img.shields.io/badge/CV-B19CFF?style=flat&logo=readme&logoColor=ffffff)](eh)
 [![](https://img.shields.io/badge/MAIL-A3B9FF?style=flat&logo=gmail&logoColor=ffffff)](mailto:van4shikaty@gmail.com)
-[![](https://img.shields.io/badge/PORTFOLIO-8B9AF7?style=flat&logo=github&logoColor=ffffff)](https://github.com/vanshikatyagi1107/vanshikatyagi1107/blob/main/PORTFOLIO.md))
+[![](https://img.shields.io/badge/PORTFOLIO-8B9AF7?style=flat&logo=github&logoColor=ffffff)](https://github.com/vanshikatyagi1107/vanshikatyagi1107/blob/main/PORTFOLIO.md)
 
 
 </div>
