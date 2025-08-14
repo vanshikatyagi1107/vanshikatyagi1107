@@ -18,8 +18,8 @@ Welcome to my Project Showcase!<br>
 - [Courses & Certifications](#courses-&-certifications)
 - [Contact](#contact)
 </div>
----
 
+---
 ## Projects <img src="https://i.pinimg.com/originals/0c/e4/81/0ce4811b1f09b204958889e7a73980c1.gif" height="40" style="vertical-align:bottom;" />
 <div align="left">
 
@@ -96,7 +96,7 @@ Welcome to my Project Showcase!<br>
 
 ---
 
-## Contact <img src="https://i.pinimg.com/originals/0c/e4/81/0ce4811b1f09b204958889e7a73980c1.gif" height="40" style="vertical-align:bottom;" /> 
+## (Contact)
 <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" height="80"/>
 
 [![](https://img.shields.io/badge/LINKEDIN-A3DFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/vanshika-tyagi-824a26226/)
