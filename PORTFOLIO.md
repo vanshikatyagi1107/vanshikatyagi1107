@@ -24,54 +24,44 @@ Welcome to my Project Showcase!<br>
 <div align="left">
 
 ### <img src="https://i.pinimg.com/originals/8b/a3/54/8ba3547626e1ec6fba8e8f10eea39293.gif" height="40" style="vertical-align:top;" /> Generative AI
-| Project | Area | Tech Stack | Description |
-|---------|------|------------|-------------|
-| [Subjective Answer Sheet Evaluation](#) | Gen AI / LLM | Python, OpenAI GPT API, NLP | Evaluates and grades subjective answers using a large language model; provides feedback and scoring. |
-| [Text Summarization Tool](#) | Gen AI / LLM | Python, HuggingFace Transformers | Summarizes long articles or documents into concise summaries using LLMs. |
+| Project | Domain | Tech Stack | Description |
+|---------|-------|------------|-------------|
+| [Subjective Answer Sheet Evaluation](#) | LLM / Gen AI | Python, OpenAI GPT API, NLP | Evaluates and grades subjective answers using a large language model; provides feedback and scoring. |
+| [Text Summarization Tool](#) | LLM / Gen AI | Python, HuggingFace Transformers | Summarizes long articles or documents into concise summaries using LLMs. |
 
 ---
+
 ### <img src="https://i.pinimg.com/originals/8b/a3/54/8ba3547626e1ec6fba8e8f10eea39293.gif" height="40" style="vertical-align:top;" /> Machine Learning
-| Project | Area | Tech Stack | Description |
-|---------|------|------------|-------------|
+| Project | Domain | Tech Stack | Description |
+|---------|-------|------------|-------------|
 | [Book Recommendation](#) | Machine Learning | Python, Pandas, Scikit-Learn | Recommends books based on user preferences using collaborative filtering. |
-| [Water Conservation Chatbot](#) | Machine Learning | Python, NLP, Flask | Chatbot educating users about water conservation using NLP techniques. |
-
-</div>
+| [watari](#https://github.com/vanshikatyagi1107/watari) | Machine Learning | Python, NLP, Flask | Chatbot educating users about water conservation using NLP techniques. |
 
 ---
-<div align="left">
 
 ### <img src="https://i.pinimg.com/originals/8b/a3/54/8ba3547626e1ec6fba8e8f10eea39293.gif" height="40" style="vertical-align:top;" /> Data Science & Analytics
-
-| Project | Area | Tech Stack | Description |
-|---------|------|------------|-------------|
-| [Netflix Movies Analysis](#) | Data Science & Analytics | Python, Pandas, Matplotlib, Seaborn | Analyze trends in genres, ratings, and releases; visualize insights using charts. |
-| [Spotify Data Analysis](#) | Data Science & Analytics | Python, Pandas, Plotly, Seaborn | Explore Spotify datasets to find patterns in song popularity, genres, and trends over time. |
-
-</div>
+| Project | Domain | Tech Stack | Description |
+|---------|-------|------------|-------------|
+| [Netflix Movies Analysis](#) | Data Science | Python, Pandas, Matplotlib, Seaborn | Analyze trends in genres, ratings, and releases; visualize insights using charts. |
+| [Spotify Data Analysis](#) | Data Science | Python, Pandas, Plotly, Seaborn | Explore Spotify datasets to find patterns in song popularity, genres, and trends over time. |
 
 ---
-<div align="left">
 
 ### <img src="https://i.pinimg.com/originals/8b/a3/54/8ba3547626e1ec6fba8e8f10eea39293.gif" height="40" style="vertical-align:top;" /> Web Development
-
-| Project | Area | Tech Stack | Description |
-|---------|------|------------|-------------|
-| [Weather App](#) | Web Development | HTML, CSS, JS, OpenWeather API | Displays current weather and forecasts for any city using OpenWeather API. |
-| [Portfolio Website](#) | Web Development | HTML, CSS, JS | Personal portfolio website showcasing projects and skills. |
-
-</div>
+| Project | Domain | Tech Stack | Description |
+|---------|-------|------------|-------------|
+| [sundesc](#https://github.com/vanshikatyagi1107/sundesc) | Weather App | HTML, CSS, JS, OpenWeather API | Displays current weather and forecasts for any city using OpenWeather API. |
+| [vans](#) | Portfolio | HTML, CSS, JS, 3js, Blender, Figma | Personal portfolio website showcasing projects and skills. |
+| [mugos](#https://github.com/vanshikatyagi1107/mugos) | Arcade / Games | React, Vite, CSS, HTML, Figma | Website with 2 games: TicTacToe and “Powerpuff Jeans” (Side-Scrolling Flyer game). |
 
 ---
-<div align="left">
 
 ### <img src="https://i.pinimg.com/originals/8b/a3/54/8ba3547626e1ec6fba8e8f10eea39293.gif" height="40" style="vertical-align:top;" /> Other Projects
+| Project | Domain | Tech Stack | Description |
+|---------|-------|------------|-------------|
+| [quizzo](https://github.com/vanshikatyagi1107/quizzo) | MCQ GUI | Python, Tkinter | Multiple-choice quiz GUI application built using Tkinter. |
 
-| Project | Area | Tech Stack | Description |
-|---------|------|------------|-------------|
-| [Python MCQ GUI](#) | Other | Python, Tkinter | Multiple-choice quiz GUI application built using Tkinter. |
 </div>
-
 
 ---
 ## Courses & Certifications <img src="https://i.pinimg.com/originals/0c/e4/81/0ce4811b1f09b204958889e7a73980c1.gif" height="40" style="vertical-align:bottom;" /> 
@@ -102,6 +92,6 @@ Welcome to my Project Showcase!<br>
 [![](https://img.shields.io/badge/LINKEDIN-A3DFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/vanshika-tyagi-824a26226/)
 [![](https://img.shields.io/badge/LEETCODE-FFF78F?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/u/Keihirokth/)
 [![](https://img.shields.io/badge/CV-A3DFFF?style=for-the-badge&logo=readme&logoColor=000000)](eh)
-[![](https://img.shields.io/badge/MAIL-FFF78F?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:van4s)
+[![](https://img.shields.io/badge/MAIL-FFF78F?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:van4shikaty@gmail.com)
 ---
 </div> 
