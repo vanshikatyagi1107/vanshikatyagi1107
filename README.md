@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=200&color=FF6FA9&center=true&multiline=true&repeat=false&width=500&height=60&lines=%F0%9F%8C%BC+heys! i+am+Vanshika+%3A)+%E2%9C%BF%F0%9F%8C%B8" width="70%" />
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=200&color=FF6FA9&center=true&multiline=false&repeat=false&width=500&height=80&lines=shhh...+it's+Vanshika+%3A)+%E2%9C%BF%F0%9F%8C%B8" width="70%" />
+<br>
 <img src="https://i.pinimg.com/1200x/3b/1c/d3/3b1cd3cede863dc3e517a7425e9e599a.jpg" width="100%" align="centre" />
 <p align="center">
   <img src="https://img.shields.io/badge/Python-F7F5C6?style=for-the-badge&logo=python&logoColor=2F2F2F"/>
@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/LINKEDIN-7FA1FF?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/vanshika-tyagi-824a26226/)
 [![](https://img.shields.io/badge/LEETCODE-9D84FF?style=flat&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/Keihirokth/)
 [![](https://img.shields.io/badge/CV-B19CFF?style=flat&logo=readme&logoColor=ffffff)](eh)
-[![](https://img.shields.io/badge/MAIL-A3B9FF?style=flat&logo=gmail&logoColor=ffffff)](mailto:van4shikaty@gmail.com)
+[![](https://img.shields.io/badge/MAIL-A3B9FF?style=flat&logo=gmail&logoColor=ffffff)](https://mail.google.com/mail/?view=cm&to=van4shikaty@gmail.com)
 [![](https://img.shields.io/badge/PORTFOLIO-8B9AF7?style=flat&logo=github&logoColor=ffffff)](https://github.com/vanshikatyagi1107/vanshikatyagi1107/blob/main/PORTFOLIO.md)
 
 
