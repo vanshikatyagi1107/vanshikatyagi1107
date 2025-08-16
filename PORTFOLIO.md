@@ -35,7 +35,7 @@ Welcome to my Project Showcase!<br>
 | Project | Domain | Tech Stack | Description |
 |---------|-------|------------|-------------|
 | [Book Recommendation](#) | Machine Learning | Python, Pandas, Scikit-Learn | Recommends books based on user preferences using collaborative filtering. |
-| [watari](#https://github.com/vanshikatyagi1107/watari) | Machine Learning | Python, NLP, Flask | Chatbot educating users about water conservation using NLP techniques. |
+| [watari](https://github.com/vanshikatyagi1107/watari) | Machine Learning | Python, NLP, Flask | Chatbot educating users about water conservation using NLP techniques. |
 
 ---
 
@@ -50,9 +50,9 @@ Welcome to my Project Showcase!<br>
 ### <img src="https://i.pinimg.com/originals/8b/a3/54/8ba3547626e1ec6fba8e8f10eea39293.gif" height="40" style="vertical-align:top;" /> Web Development
 | Project | Domain | Tech Stack | Description |
 |---------|-------|------------|-------------|
-| [sundesc](#https://github.com/vanshikatyagi1107/sundesc) | Weather App | HTML, CSS, JS, OpenWeather API | Displays current weather and forecasts for any city using OpenWeather API. |
+| [sundesc](https://github.com/vanshikatyagi1107/sundesc) | Weather App | HTML, CSS, JS, OpenWeather API | Displays current weather and forecasts for any city using OpenWeather API. |
 | [vans](#) | Portfolio | HTML, CSS, JS, 3js, Blender, Figma | Personal portfolio website showcasing projects and skills. |
-| [mugos](#https://github.com/vanshikatyagi1107/mugos) | Arcade / Games | React, Vite, CSS, HTML, Figma | Website with 2 games: TicTacToe and “Powerpuff Jeans” (Side-Scrolling Flyer game). |
+| [mugos](https://github.com/vanshikatyagi1107/mugos) | Arcade / Games | React, Vite, CSS, HTML, Figma | Website with 2 games: TicTacToe and “Powerpuff Jeans” (Side-Scrolling Flyer game). |
 
 ---
 
